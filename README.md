@@ -18,4 +18,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Images
 
-![]("1.jpg")
+![](1.jpg)
